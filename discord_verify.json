@@ -1,0 +1,7 @@
+{
+        "output_file": "accounts_verified.txt",
+        "emails_file": "registered.txt",
+        "timeout": 10000,
+        "nb_threads": 50,
+        "debug": false
+}

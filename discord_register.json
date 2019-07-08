@@ -1,0 +1,10 @@
+{
+        "output_file": "registered.txt",
+        "output_token_file": "tokens.txt",
+        "emails_file": "emails.txt",
+        "proxy_file": "proxies.txt",
+        "proxy_blacklist_file": "bad_proxies.txt",
+        "timeout": 10000,
+        "nb_threads": 50,
+        "debug": true
+}
